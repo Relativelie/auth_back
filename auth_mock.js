@@ -18,7 +18,7 @@ app.get('/api/profile', (req, res) => {
       interests: ['programming', 'reading', 'traveling'],
       bio: "I'm a software developer passionate about creating innovative solutions.",
       avatar:
-        'https://avatars.githubusercontent.com/u/59819426?s=400&u=5c3c0af83690ef27375f77e04675d460d9b6673f&v=4',
+        'https://avatars.githubusercontent.com/u/59819426?v=4',
     });
   }, 2000);
 });
