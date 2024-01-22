@@ -69,3 +69,11 @@ This project serves as a mock data repository for a frontend project with [authe
   }
 
   401, error: Invalid token
+
+## Installation
+1. Clone the repository
+https://github.com/Relativelie/auth_back.git
+
+2. Navigate to the project directory
+3. Install packages with 'npm install'
+4. Start the development server ''node auth_mock.js'
